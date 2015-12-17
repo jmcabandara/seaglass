@@ -1,0 +1,1 @@
+This project has moved. See https://github.com/khuxtable/seaglass/wiki for the current project.
